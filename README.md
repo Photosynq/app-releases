@@ -1,2 +1,4 @@
 # app-releases
-PhotosynQ Apps
+PhotosynQ Android App versions are managed here.
+
+
